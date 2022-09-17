@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img
         src="https://fondosmil.com/fondo/8778.jpg" />
-    <h1 align="center">Hi 😀, I’m @2488740Nicolas</h1>
+    <h1 align="center">Hi 🐲, I’m @2488740Nicolas</h1>
     <h3 align="center">A passionate frontend and backend developer from colombia</h3>
 </div>
 

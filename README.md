@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img
-        src="https://pillowfortmedia.s3.amazonaws.com/posts/538be550d669_pf_part8_flyoverasteroid_busy.gif" />
+        src="https://fondosmil.com/fondo/8778.jpg" />
     <h1 align="center">Hi 😀, I’m @2488740Nicolas</h1>
     <h3 align="center">A passionate frontend and backend developer from colombia</h3>
 </div>
